@@ -1,9 +1,5 @@
 web3-frontend contains node files so it couldn't be uploaded.
 
-
-
-Certainly! Here’s a brief overview of your project that you can use to explain it to your mentor or judges:
-
 ### Project Overview: Web3 Identifier System
 
 1. **Objective**: 
@@ -45,4 +41,3 @@ Certainly! Here’s a brief overview of your project that you can use to explain
 ### Conclusion
 This project showcases the integration of blockchain technology with a user-friendly interface, demonstrating how decentralized systems can improve data ownership and verification for individuals. It also highlights your skills in frontend development, smart contract deployment, and user experience design.
 
-Feel free to adjust any sections based on your specific experiences or focus areas during the project!
