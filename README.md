@@ -1,4 +1,4 @@
-web3-frontend contains node files so it couldn't be uploaded.
+
 
 ### Project Overview: Web3 Identifier System
 
@@ -40,4 +40,12 @@ web3-frontend contains node files so it couldn't be uploaded.
 
 ### Conclusion
 This project showcases the integration of blockchain technology with a user-friendly interface, demonstrating how decentralized systems can improve data ownership and verification for individuals. It also highlights your skills in frontend development, smart contract deployment, and user experience design.
+
+
+### Important Note:
+
+We were very unfamiliar with the technology, and Web3 was absolutely new to us. This was also our first time learning and implementing blockchain technology. We have just entered our second year and had no prior knowledge or experience. Although we managed to build something, it is not fully functional, but somewhat close to the solution. We were unable to complete the contract deployment with the blockchain. Additionally, the web3-frontend couldn't be uploaded to GitHub since it contains Node.js and React.
+
+Thank you for the opportunity. It was a really interesting and valuable experience for all of us, which helped us learn a lot of new things in a very short span of time.
+
 
